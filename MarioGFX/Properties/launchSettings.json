@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Mario Picross GFX": {
+      "commandName": "Project",
+      "commandLineArgs": "\"Dump\" \"%romPath%\" \"%dumpPath%\""
+    }
+  }
+}
